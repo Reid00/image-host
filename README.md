@@ -1,2 +1,4 @@
-# image-host
-  为markdown 文件提供图片，作为图床
+# Image Host
+  Image host my any markdown file.
+  For me, my [blog](https://reid00.github.io/) is main subject.
+  Also, can upload image for other purpose.
